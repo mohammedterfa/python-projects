@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88da257-4357-4649-a3ea-7f4509825d55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/commerce/item/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commerce/item/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commerce/commerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/commerce/commerce/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commerce/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/commerce/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commerce/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/commerce/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commerce/item/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/commerce/item/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709649646057</updated>
       <workItem from="1709707234809" duration="198000" />
-      <workItem from="1709708651224" duration="3008000" />
+      <workItem from="1709708651224" duration="3762000" />
     </task>
     <servers />
   </component>
